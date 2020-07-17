@@ -1,0 +1,13 @@
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.exe
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.deps.json
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.runtimeconfig.json
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.runtimeconfig.dev.json
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.dll
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\bin\Release\netcoreapp3.1\CsharpCode.pdb
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.csprojAssemblyReference.cache
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.AssemblyInfoInputs.cache
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.AssemblyInfo.cs
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.dll
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.pdb
+C:\Users\vivek.d.raj\source\MSBuildTest11\CsharpCode\CsharpCode\obj\Release\netcoreapp3.1\CsharpCode.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTarget="Start" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SourceFolder>..\CsharpCode</SourceFolder>
+  </PropertyGroup>
+
+  <Target Name="Start">
+    <CallTarget Targets="Build"></CallTarget>
+  </Target>
+
+  <Target Name="Build">
+    <MSBuild
+      Projects="$(SourceFolder)\CsharpCode.sln"
+      Properties="Configuration=Debug"
+      Targets="Clean;Build"
+      ContinueOnError="false"
+      StopOnFirstFailure="true"/>
+  </Target>
+  
+</Project>
