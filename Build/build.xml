@@ -11,7 +11,7 @@
   <Target Name="Build">
     <MSBuild
       Projects="$(SourceFolder)\CsharpCode.sln"
-      Properties="Configuration=Debug"
+      Properties="Configuration=Release"
       Targets="Clean;Build"
       ContinueOnError="false"
       StopOnFirstFailure="true"/>
